@@ -11,6 +11,8 @@
     "graphql-request": "^1.5.0",
     "graphql-tag": "^2.8.0",
     "json-beautify": "^1.0.1",
-    "moment": "^2.20.1"
+    "moment": "^2.20.1",
+    "moment-isocalendar": "^0.1.0",
+    "xrange": "^1.0.1"
   }
 }
